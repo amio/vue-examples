@@ -1,5 +1,7 @@
 # oa-example
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/amio/vue-examples.svg)](https://greenkeeper.io/)
+
 > A Vue.js project
 
 ## Build Setup
